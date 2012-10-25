@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>reinstall.ico</file>
+    </qresource>
+
+    <qresource prefix="/images">
+        <file>reinstall.png</file>
+        <file>water.png</file>
+    </qresource>
+
+    <qresource prefix="/translations">
+        <file>HoldemUninstall_ru.qm</file>
+        <file>qt_ru.qm</file>
+    </qresource>
+
+</RCC>
+
