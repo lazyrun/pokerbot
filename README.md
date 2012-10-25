@@ -1,0 +1,4 @@
+pokerbot
+========
+
+Maverick Poker Bot
