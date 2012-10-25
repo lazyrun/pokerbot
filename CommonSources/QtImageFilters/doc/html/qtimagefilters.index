@@ -1,0 +1,49 @@
+<!DOCTYPE QDOCINDEX>
+<INDEX url="" title="Image Filters Documentation">
+<namespace access="public" name="">
+ <class access="public" name="QtImageFilter" bases="">
+  <enum access="public" name="FilterOption" />
+  <function access="public" name="option" virtual="impure" meta="plain" const="true" static="false" overload="false">
+   <parameter left="int" right="" name="filteroption" />
+  </function>
+  <function access="public" name="setOption" virtual="impure" meta="plain" const="false" static="false" overload="false">
+   <parameter left="int" right="" name="filteroption" />
+   <parameter left="const QVariant &amp;" right="" name="value" />
+  </function>
+  <function access="public" name="supportsOption" virtual="impure" meta="plain" const="true" static="false" overload="false">
+   <parameter left="int" right="" name="filteroption" />
+  </function>
+  <function access="public" name="apply" virtual="pure" meta="plain" const="true" static="false" overload="false">
+   <parameter left="const QImage &amp;" right="" name="image" />
+   <parameter left="const QRect &amp;" right="" name="clipRectangle" />
+  </function>
+  <function access="public" name="name" virtual="pure" meta="plain" const="true" static="false" overload="false" />
+  <function access="public" name="description" virtual="impure" meta="plain" const="true" static="false" overload="false" />
+  <function access="public" name="~QtImageFilter" virtual="impure" meta="destructor" const="false" static="false" overload="false" />
+ </class>
+ <class access="public" name="QtImageFilterFactory" bases="">
+  <typedef access="public" name="ImageFilterFactoryFunction" />
+  <function access="public" name="createImageFilter" virtual="non" meta="plain" const="false" static="true" overload="false">
+   <parameter left="const QString &amp;" right="" name="name" />
+  </function>
+  <function access="public" name="registerImageFilter" virtual="non" meta="plain" const="false" static="true" overload="false">
+   <parameter left="const QString &amp;" right="" name="name" />
+   <parameter left="ImageFilterFactoryFunction" right="" name="function" />
+  </function>
+  <function access="public" name="imageFilterList" virtual="non" meta="plain" const="false" static="true" overload="false" />
+  <function access="public" name="registerImageFilter" virtual="non" meta="plain" const="false" static="true" overload="true">
+   <parameter left="const QString &amp;" right="" name="name" />
+  </function>
+ </class>
+ <function access="public" name="qtRegisterImageFilter" virtual="non" meta="plain" const="false" static="false" overload="false" relates="QtImageFilterFactory">
+  <parameter left="const QString &amp;" right="" name="name" />
+  <parameter left="T *" right="" name="dummy" />
+ </function>
+ <page access="public" name="index.html" subtype="page" title="Image Filters" fulltitle="Image Filters" subtitle="" location="index.qdoc">
+  <contents name="description" title="Description" />
+  <contents name="classes" title="Classes" />
+  <contents name="tested-platforms" title="Tested platforms" />
+  <contents name="screenshots" title="Screenshots" />
+ </page>
+</namespace>
+</INDEX>

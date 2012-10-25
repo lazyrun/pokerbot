@@ -1,0 +1,1 @@
+DEFINES += DEMO_MODE

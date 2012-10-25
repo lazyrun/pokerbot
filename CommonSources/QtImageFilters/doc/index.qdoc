@@ -1,0 +1,46 @@
+/*!
+	\page index.html
+	\title Image Filters
+
+    	\section1 Description
+	
+		    This component provides image filtering functionality. It has
+		    built-in support for some of the most common and popular image
+		    filter algorithms, such as gaussian blurring, embossing,
+		    sharpening, defocus, punch/pinch, general convolution, etc. It
+		    also provides a simple framework for adding custom image filters.
+            
+
+	
+	    
+
+        This Qt Solutions component is for Qt 4. For Qt 3 Solutions, please
+        visit \l{http://www.trolltech.com/products/qt/addon/solutions/catalog/3/}{the Qt 3 Solutions Catalog}.
+
+    	
+        \section1 Classes
+	    \list
+	 \i  QtImageFilter \i  QtImageFilterFactory\endlist
+	
+    
+
+    	
+
+    	
+    		\section1 Tested platforms
+		\list
+		\i Qt 4.1.3 / Windows XP / MSVC.NET 2003
+		    \i Qt 4.1.3 / Windows XP / MSVC.NET 2005
+		    \i Qt 4.1.3 / Linux / gcc
+		    \i Qt 4.1.3 / SunOS 5.9 / SunC++
+		    \i Qt 4.1.3 / MacOS X 10.4 / gcc
+		    \endlist
+
+    	
+
+	
+		\section1 Screenshots
+
+    		\img qtlogo_emboss.png
+		    
+	*/
