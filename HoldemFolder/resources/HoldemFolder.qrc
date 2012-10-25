@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>credit_card.png</file>
+        <file>favorite.png</file>
+        <file>pair.png</file>
+        <file>clear.png</file>
+        <file>spectr.png</file>
+        <file>settings.png</file>
+        <file>support.png</file>
+        <file>card.png</file>
+        <file>often.png</file>
+        <file>care.png</file>
+        <file>edit.png</file>
+        <file>buynow.png</file>
+        <file>lickey.png</file>
+        <file>speaker.png</file>
+        <file>splash.png</file>
+        <file>exit2.png</file>
+        <file>cards.png</file>
+        <file>pref.png</file>
+        <file>poker.png</file>        
+    </qresource>
+
+    <qresource prefix="/text">
+        <file>license_en.txt</file>
+        <file>license_ru.txt</file>
+    </qresource>
+
+    <qresource prefix="/translations">
+        <file>qt_ru.qm</file>
+        <file>HoldemFolder_ru.qm</file>
+    </qresource>
+
+    <qresource prefix="/help">
+        <file>index_en.htm</file>
+        <file>index_ru.htm</file>
+        <file>help_range.png</file>
+        <file>help_settings.png</file>
+        <file>cake-poker.png</file>
+        <file>redstarpoker.png</file>
+        <file>academy.png</file>
+
+        <file>cake_en.htm</file>
+        <file>cake_ru.htm</file>
+        <file>rsp_en.htm</file>
+        <file>rsp_ru.htm</file>
+        <file>acad_en.htm</file>
+        <file>acad_ru.htm</file>
+
+        <file>cakepoker/cake1.png</file>
+        <file>cakepoker/cake2.png</file>
+        <file>cakepoker/cake3.png</file>
+        <file>cakepoker/cake4.png</file>
+
+        <file>redstar/rsp1.png</file>
+        <file>redstar/rsp2.png</file>
+        <file>redstar/rsp3.png</file>
+        <file>redstar/rsp4.png</file>
+        <file>redstar/rsp5.png</file>
+
+        <file>academy/academy1.png</file>
+        <file>academy/academy2.png</file>
+        <file>academy/academy3.png</file>
+    </qresource>
+</RCC>

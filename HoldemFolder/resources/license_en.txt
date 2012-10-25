@@ -1,0 +1,40 @@
+﻿MAVERICK POKER BOT SOFTWARE
+SINGLE USER SOFTWARE LICENSE AND LIMITED WARRANTY
+END-USER LICENSE AGREEMENT
+
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE DOWNLOADING OR USING THE SOFTWARE. BY OPENING THE PACKAGE, DOWNLOADING THE PRODUCT, OR USING THE EQUIPMENT THAT CONTAINS THIS PRODUCT, YOU ARE CONSENTING TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT DO NOT INSTALL THE PRODUCT OR DO NOT DOWNLOAD THE PRODUCT.
+
+This Mavrick Poker Bot End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and the Author of Mavrick Poker Bot. By using the SOFTWARE PRODUCT for other purposes than its evaluation, you agree to be bound by the terms of this EULA. 
+
+This License Agreement covers your use of Mavrick Poker Bot Software, hereinafter referred to as "Product". You may use it and distribute it according to this following EULA. If you do not agree with these terms, please remove the Product from your system. By incorporating the Product in your work or distributing the Product to others you implicitly agree to these license terms.
+
+MAVRICK POKER BOT IS PROVIDED AS IS
+
+PRODUCT IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS PRODUCT.
+
+DISCLAIMER OF WARRANTY FOR PRODUCT
+
+EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS AGREEMENT, THE AUTHOR DISCLAIMS ALL IMPLIED WARRANTIES FOR THE PRODUCT, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHOR MAKES NO REPRESENTATIONS CONCERNING THE QUALITY OF THE PRODUCT AND DOES NOT PROMISE THAT THE PRODUCT WILL BE ERROR FREE OR WILL OPERATE WITHOUT INTERRUPTION.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT WILL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR OTHER DAMAGES ARISING OUT OF THE USE OF THE PRODUCT BY ANY PERSON, REGARDLESS OF WHETHER THE PERSON IS INFORMED OF THE POSSIBILITY OF DAMAGES IN ADVANCE.
+THESE LIMITATIONS APPLY TO ALL CAUSES OF ACTION, INCLUDING BREACH OF CONTRACT, BREACH OF WARRANTY, THE AUTHOR NEGLIGENCE, STRICT LIABILITY, MISREPRESENTATION AND OTHER TORTS.
+
+CONFIDENTIALITY
+
+The parties to this Agreement will take all reasonable steps to ensure that any material or information identified by either party to be confidential ("Confidential Information"), which the other party has possession or knowledge of in connection with this Agreement, will not be disclosed to others, in whole or in part, without the prior written permission of the other party. Neither party will have the obligation to maintain the confidentiality of any data or information which (i) was in the receiving party's lawful possession prior to Receipt from the other party, (ii) is later lawfully obtained by the receiving party from a third party having no obligation of secrecy to the other party, (iii) is available to the public through no act or failure of the receiving party, (iv) is readily available in the public domain, or (v) is independently developed by the receiving party. The receiving party will immediately return or destroy any or all Confidential Information that has been provided to it by the other party, upon the other party's request.
+
+GENERAL
+
+This Agreement constitutes the entire understanding between Author and Licensee with respect to subject matter hereof. Any change to this Agreement must be in writing, signed by Author and Licensee. 
+
+The software is licensed, not sold. This agreement only gives you some rights to use the software. The author reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.
+
+You may not:
+
+* work around any technical limitations in the binary versions of the software;
+* reverse engineer, decompile or disassemble the binary versions of the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+* rent, lease or lend the software.
+
+LICENSEE HAS READ THIS AGREEMENT AND UNDERSTANDS AND AGREES TO ALL OF ITS TERMS AND CONDITIONS.
